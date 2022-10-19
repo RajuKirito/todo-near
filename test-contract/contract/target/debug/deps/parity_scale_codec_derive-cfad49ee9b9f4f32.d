@@ -1,0 +1,10 @@
+/workspace/todo-near/test-contract/contract/target/debug/deps/libparity_scale_codec_derive-cfad49ee9b9f4f32.so: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/workspace/todo-near/test-contract/contract/target/debug/deps/parity_scale_codec_derive-cfad49ee9b9f4f32.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs:

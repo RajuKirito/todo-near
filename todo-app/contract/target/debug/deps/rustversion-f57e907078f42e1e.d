@@ -1,0 +1,20 @@
+/workspace/todo-near/todo-app/contract/target/debug/deps/librustversion-f57e907078f42e1e.so: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /workspace/todo-near/todo-app/contract/target/debug/build/rustversion-ed4500a2b28bda47/out/version.expr
+
+/workspace/todo-near/todo-app/contract/target/debug/deps/rustversion-f57e907078f42e1e.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /workspace/todo-near/todo-app/contract/target/debug/build/rustversion-ed4500a2b28bda47/out/version.expr
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs:
+/workspace/todo-near/todo-app/contract/target/debug/build/rustversion-ed4500a2b28bda47/out/version.expr:
+
+# env-dep:OUT_DIR=/workspace/todo-near/todo-app/contract/target/debug/build/rustversion-ed4500a2b28bda47/out

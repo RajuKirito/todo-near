@@ -1,0 +1,13 @@
+/workspace/todo-near/todo-app/contract/target/wasm32-unknown-unknown/release/deps/gif-e43ef2673d1f08ad.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/workspace/todo-near/todo-app/contract/target/wasm32-unknown-unknown/release/deps/libgif-e43ef2673d1f08ad.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/workspace/todo-near/todo-app/contract/target/wasm32-unknown-unknown/release/deps/gif-e43ef2673d1f08ad.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md:
